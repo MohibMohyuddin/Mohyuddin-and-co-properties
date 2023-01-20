@@ -1,4 +1,4 @@
-<h2> Mohyuddin and Co a Real Estate Website aimed at the Pakistan real estate market 
+<h2> Mohyuddin and Co: A Real Estate Web application aimed at the Pakistan real estate market 
 
 
 <h3> Target consumer base: Fresh grads and new professionals

@@ -1,6 +1,9 @@
 <h1> Mohyuddin and Co a Real Estate Website aimed at the Pakistan real estate market 
-\n
-<h4> Target audience: fresh grads and new professionals
+
+
+<h4> Target consumer base: Fresh grads and new professionals
+
+  
 ## Setup
 To setup your computer, follow these steps:
 

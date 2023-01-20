@@ -1,6 +1,6 @@
-<h1> Real Estate Website
-
-Built using ReactJS
+<h1> Mohyuddin and Co a Real Estate Website aimed at the Pakistan real estate market built using ReactJS
+  
+<h2> Target audience: fresh grads and new professionals
 ## Setup
 To setup your computer, follow these steps:
 

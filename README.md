@@ -5,7 +5,7 @@ Built using ReactJS
 To setup your computer, follow these steps:
 
 1) Download NodeJS: https://nodejs.org/en/download/
-2) Clone this repo using the command:```
+2) Clone this repo using the command:
 3) Enter the following into the terminal:
 
 npm rebuild
